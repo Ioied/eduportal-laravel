@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "20f94c36a8c0641b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6fdc19667dcf3f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a210f28f57a9659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "7048a873ad55da94",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Copilot_20250628_192449.png"
+              },
+              "icon": "lucide-image",
+              "title": "Copilot_20250628_192449"
+            }
+          },
+          {
+            "id": "9a732e73fe54f073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Road map by copilot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Road map by copilot"
+            }
+          },
+          {
+            "id": "e85e6f79290c79db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Users.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Users"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae953f6775087c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "66af74f37fe16eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14febbf6f07477a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "307535db9691848e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88e436389c2c39b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "380bfa5bd557acf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "025df64e2e20fada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30cfdd2f22c2a6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Users.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Users"
+            }
+          },
+          {
+            "id": "9e6a68c95f41dfaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Users.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Users"
+            }
+          },
+          {
+            "id": "7efef2e20aa849d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f0dc71620a5268f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Users.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Users"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e85e6f79290c79db",
+  "lastOpenFiles": [
+    "Road map by copilot.md",
+    "Users.md",
+    "Fast notes.md",
+    "Road-map.md",
+    "Copilot_20250628_192449.png",
+    "Copilot_20250628_162020 1.png",
+    "Copilot_20250628_192449 1.png",
+    "Copilot_20250628_162020.png",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
